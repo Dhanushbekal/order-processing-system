@@ -1,0 +1,3 @@
+com\peerisland\order\AppTest.class
+com\peerisland\order\controller\OrderControllerTest.class
+com\peerisland\order\service\OrderServiceTest.class
